@@ -6,3 +6,5 @@ Vídeo explicando o código do jogo:
 
 Vídeo explicando a integração do controle prototipado para o microcomputador ESP32:
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=FsV7osD9L30" target="_blank"><img src="http://img.youtube.com/vi/FsV7osD9L30/0.jpg" alt="Vídeo explicando a integração do controle prototipado para o microcomputador ESP32" width="1280" height="720" border="10" /></a>
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=azEvYY5NHPM" target="_blank"><img src="http://img.youtube.com/vi/azEvYY5NHPM/0.jpg" alt="Vídeo explicando a integração do controle prototipado para o microcomputador ESP32" width="1280" height="720" border="10" /></a>
